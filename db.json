@@ -1,0 +1,27 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Shutter Island",
+      "posterPath": "images/shutter_island.jpg",
+      "genre": "Thriller",
+      "description": "When U.S. Marshal Teddy Daniels (DiCaprio) arrives at the asylum for the criminally insane on Shutter Island, what starts as a routine investigation quickly takes a sinister turn."
+    },
+    {
+      "id": "2",
+      "title": "Fight Club",
+      "posterPath": "images/fight_club.jpg",
+      "genre": "Action",
+      "description": "Sick of his dead end, white bread existence, Jack encounters an intriguing stranger who alters his relationship with reality."
+    }
+  ],
+  "favourites": [
+    {
+      "id": "1",
+      "title": "Shutter Island",
+      "posterPath": "images/shutter_island.jpg",
+      "genre": "Thriller",
+      "description": "When U.S. Marshal Teddy Daniels (DiCaprio) arrives at the asylum for the criminally insane on Shutter Island, what starts as a routine investigation quickly takes a sinister turn."
+    }
+  ]
+}
