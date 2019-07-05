@@ -4,24 +4,39 @@
       "id": "1",
       "title": "Shutter Island",
       "posterPath": "images/shutter_island.jpg",
-      "genre": "Thriller",
-      "description": "When U.S. Marshal Teddy Daniels (DiCaprio) arrives at the asylum for the criminally insane on Shutter Island, what starts as a routine investigation quickly takes a sinister turn."
+      "genre": "Thriller"
     },
     {
       "id": "2",
       "title": "Fight Club",
       "posterPath": "images/fight_club.jpg",
-      "genre": "Action",
-      "description": "Sick of his dead end, white bread existence, Jack encounters an intriguing stranger who alters his relationship with reality."
+      "genre": "Action"
+    },
+    {
+      "id": "3",
+      "title": "Shawshank Redemption",
+      "posterPath": "images/shawshank_redemption.jpg",
+      "genre": "Drama"
+    },
+    {
+      "id": "4",
+      "title": "Captain Marvel",
+      "posterPath": "images/captain_marvel.jpg",
+      "genre": "Adventure"
     }
   ],
   "favourites": [
     {
+      "id": "2",
+      "title": "Fight Club",
+      "posterPath": "images/fight_club.jpg",
+      "genre": "Action"
+    },
+    {
       "id": "1",
       "title": "Shutter Island",
       "posterPath": "images/shutter_island.jpg",
-      "genre": "Thriller",
-      "description": "When U.S. Marshal Teddy Daniels (DiCaprio) arrives at the asylum for the criminally insane on Shutter Island, what starts as a routine investigation quickly takes a sinister turn."
+      "genre": "Thriller"
     }
   ]
 }
